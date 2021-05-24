@@ -9,4 +9,8 @@ ef25843 HEAD@{18}: checkout: moving from master to fixing-online-bugs
 ef25843 HEAD@{21}: pull origin fixing-online-bugs: Fast-forward
 2be1d83 HEAD@{22}: checkout: moving from master to fixing-online-bugs
 5a76a33 HEAD@{23}: clone: from https://github.com/crazyzhangyong/gitdemo.git
+0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
+0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
+0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
+0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
 
