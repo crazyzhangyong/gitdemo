@@ -13,4 +13,5 @@ ef25843 HEAD@{21}: pull origin fixing-online-bugs: Fast-forward
 0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
 0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
 0570e5a (origin/fixing-online-bugs) HEAD@{17}: commit: modified entity Order
+5a76a33 HEAD@{23}: clone: from https://github.com/crazyzhangyong/gitdemo.git
 
