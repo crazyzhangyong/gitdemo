@@ -1,3 +1,4 @@
+//这是一个订单实体类
 public Class Order{
 	public string OrderNo{get;set;}
 	public string Receiver{get;set;}
