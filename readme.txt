@@ -4,3 +4,10 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git has a mutable index called stage.
 Git tracks changes of files.
+iscard changes in working d
+iscard changes in working d
+iscard changes in working d
+iscard changes in working d
+iscard changes in working d
+iscard changes in working d
+iscard changes in working d
