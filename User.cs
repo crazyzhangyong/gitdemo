@@ -5,4 +5,7 @@ public class User{
 	public string Name{get;set;}
 	public string Email{get;set;}
 
+	public override string ToString(){
+		return this.Id+","+this.Name+","+this.Email;
+	}
 }
